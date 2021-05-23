@@ -9,7 +9,7 @@ The file structure for this repository is as follows:
 3) EDA.ipynb
 4) CNN.ipynb
 5) Modelling with numerical feautures.ipynb
-6) 5_LR_RF_SVM.ipynb
+6) LR_RF_SVM.ipynb
 
 
 
